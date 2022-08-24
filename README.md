@@ -3,7 +3,8 @@
 https://acl4ssr-sub.github.io/  
 
 订阅网址合集  
-Leon406    网址：https://github.com/Leon406/SubCrawler  
+freefq    https://github.com/freefq/free  
+Leon406    网址：https://github.com/Leon406/SubCrawler    
   
 clash订阅节点池  
 碧海免费节点池    https://proxies.bihai.cf/  
