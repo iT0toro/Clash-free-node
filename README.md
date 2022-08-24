@@ -3,11 +3,11 @@
 https://acl4ssr-sub.github.io/  
 
 订阅网址合集  
-freefq    https://github.com/freefq/free  
+freefq    网址：https://github.com/freefq/free  
 Leon406    网址：https://github.com/Leon406/SubCrawler    
   
 clash订阅节点池  
-碧海免费节点池    https://proxies.bihai.cf/  
+碧海免费节点池    网址：https://proxies.bihai.cf/  
   
 clash订阅地址  
 freefq    clash订阅：https://www.burstlinker.com/ 需要注册后使用  
