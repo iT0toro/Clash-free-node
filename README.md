@@ -15,4 +15,4 @@ freefq    clash订阅：https://www.burstlinker.com/ 需要注册后使用
 ermaozi    clash订阅：https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/clash.yml  
 alanbobs999    clash订阅：https://raw.githubusercontent.com/alanbobs999/TopFreeProxies/master/Eternity.yml  
 TopFreeProxies    https://fastly.jsdelivr.net/gh/alanbobs999/TopFreeProxies@master/Eternity.yaml  
-https://bitbucket.org/huwo1/proxy_nodes/raw/f31ca9ec67b84071515729ff45b011b6b09c10f2/clash.yaml
+anaer    https://raw.iqiq.io/anaer/Sub/main/clash.yaml  
